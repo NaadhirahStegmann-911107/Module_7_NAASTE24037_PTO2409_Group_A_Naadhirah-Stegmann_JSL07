@@ -113,3 +113,10 @@ button:hover {
   background-color: #5d5f5e;
 }
 
+img {
+  width: 500px;
+  height: 55px;
+  margin: 0 auto;
+  display: block;
+}
+
